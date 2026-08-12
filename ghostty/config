@@ -1,8 +1,6 @@
 keybind = global:cmd+f12=toggle_quick_terminal
 theme = Catppuccin Frappe
 window-theme = dark
-keybind = super+shift+bracket_left=unbind
-keybind = super+shift+bracket_right=unbind
 keybind = super+t=unbind
 keybind = super+w=unbind
 keybind = super+shift+t=unbind
