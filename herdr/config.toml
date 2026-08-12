@@ -1,0 +1,17 @@
+onboarding = false
+
+[keys]
+prefix = "ctrl+space"
+new_tab = ["cmd+shift+t", "ctrl+shift+t"]
+close_tab = ["cmd+shift+w", "ctrl+shift+w"]
+next_tab = ["cmd+shift+]", "ctrl+shift+]"]
+previous_tab = ["cmd+shift+[", "ctrl+shift+["]
+new_workspace = ["cmd+alt+t", "ctrl+alt+t"]
+close_workspace = ["cmd+alt+w", "ctrl+alt+w"]
+next_workspace = ["cmd+alt+]", "ctrl+alt+]"]
+previous_workspace = ["cmd+alt+[", "ctrl+alt+["]
+goto = ["cmd+shift+p", "ctrl+shift+p"]
+
+[theme]
+name = "catppuccin-frappe"
+auto_switch = false
